@@ -4,7 +4,7 @@
 <p>
   <img src="https://img.shields.io/github/commit-activity/y/jsD3v/portfolio-V2"/>
   <img src="https://img.shields.io/badge/Symfony-5.4%2F6.0-lightgrey"/>
-<img src=""/>
+<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>"/>
 <img src=""/>
 <img src=""/>
 <img src=""/>
