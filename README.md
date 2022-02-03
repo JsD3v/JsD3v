@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jean-Sébastien Christophe</h1>
 <h3 align="center">A passionate Web developper who like's Symfony and Vuejs</h3>
 
+<img src="https://github.com/JsD3v/JsD3v/blob/main/img/jeansebastien-christophe-glitch.png"/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsd3v&show_icons=true&locale=en" alt="jsd3v" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsd3v&label=Profile%20views&color=0e75b6&style=flat" alt="jsd3v" /> </p>
