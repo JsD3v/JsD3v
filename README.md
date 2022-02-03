@@ -1,9 +1,19 @@
 ### Hi there 👋
 ![Cover](https://github.com/JsD3v/JsD3v/blob/main/img/jeansebastien-christophe-glitch.png)
 
-https://img.shields.io/github/commit-activity/y/jsD3v/portfolio-V2
-https://img.shields.io/badge/Symfony-5.4%2F6.0-lightgrey
+<p>
+  <img src="https://img.shields.io/github/commit-activity/y/jsD3v/portfolio-V2"/>
+  <img src="https://img.shields.io/badge/Symfony-5.4%2F6.0-lightgrey"/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
 
+  <img src=""/>
+
+
+</p>
 
 **JsD3v/JsD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
