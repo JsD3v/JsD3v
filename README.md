@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/JsD3v/JsD3v/blob/main/img/jeansebastien-christophe-glitch.png = 150x 40)
+![Cover](https://github.com/JsD3v/JsD3v/blob/main/img/jeansebastien-christophe-glitch.png =150x40)
 
 <p>
   <img src="https://img.shields.io/github/commit-activity/y/jsD3v/portfolio-V2"/>
