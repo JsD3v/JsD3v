@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/JsD3v/JsD3v/blob/main/img/jeansebastien-christophe-glitch.png){ width=50% }
+![Cover](https://github.com/JsD3v/JsD3v/blob/main/img/jeansebastien-christophe-glitch.png | width= 50%)
 
 <p>
   <img src="https://img.shields.io/github/commit-activity/y/jsD3v/portfolio-V2"/>
