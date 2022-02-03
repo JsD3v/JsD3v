@@ -1,4 +1,5 @@
 ### Hi there 👋
+<link rel stylesheet="style/bootstrap.min.css">
 <img src="https://github.com/JsD3v/JsD3v/blob/main/img/jeansebastien-christophe-glitch.png" width="50%"/>
 
 <p>
