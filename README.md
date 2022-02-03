@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jean-Sébastien Christophe</h1>
 <h3 align="center">A passionate Web developper who like's Symfony and Vuejs</h3>
- <div class="container">
-  <div class="row">
-     <div class="col">
-<img align="left" src="https://github.com/JsD3v/JsD3v/blob/main/img/jeansebastien-christophe-glitch.png" | width="40%" />
-    </div>
-      <div class="col">
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jsd3v&show_icons=true&locale=en" alt="jsd3v" /></p>
-    </div>
-  </div>
- </div>
- 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jsd3v&label=Profile%20views&color=0e75b6&style=flat" alt="jsd3v" /> </p>
+
+<p align="left"> <img src="https://github.com/JsD3v/JsD3v/blob/main/img/jeansebastien-christophe-glitch.png" | width="40%" alt="jsd3v" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsd3v&label=Profile%20views&color=0e75b6&style=flat" alt="jsd3v" /> </p>
 
 - 🔭 I’m currently working on **an e-commerce based on Symfony 5**
 
@@ -46,4 +38,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jsebastienC"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jsebastienC" /></a></p><br><br>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsd3v&show_icons=true&locale=en" alt="jsd3v" /></p>
