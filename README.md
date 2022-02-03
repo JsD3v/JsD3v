@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/JsD3v/JsD3v/blob/master/img/jeansebastien-christophe-glitch.png)
+![Cover](https://github.com/JsD3v/JsD3v/blob/main/img/jeansebastien-christophe-glitch.png)
 <!--
 **JsD3v/JsD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
