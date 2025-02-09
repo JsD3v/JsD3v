@@ -11,7 +11,7 @@
 
 - 🤝 I made my portfolio [One page website responsive](https://jschristophe.fr)
 
-- 📝 I regularly write articles on my website [https://jschristophe.fr/symfony]([https://jschristophe.fr/symfony-fr)
+- 📝 I regularly write articles on my website [https://jschristophe.fr/symfony](https://jschristophe.fr/symfony-fr)
 
 - 💬 Ask me about **symfony, vue , on some CMS**
 
