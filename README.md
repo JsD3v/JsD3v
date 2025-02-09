@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Vuejs and Nuxt js**
 
-- 👯 I’m looking to collaborate on [an gaming website-project](https://jsgame-on.fr/public)
-
 - 🤝 I made my portfolio [One page website responsive](https://jschristophe.fr)
 
-- 📝 I regularly write articles on my website [https://jschristophe.fr/symfony]([https://jschristophe.fr/symfony-fr))
+- 📝 I regularly write articles on my website [https://jschristophe.fr/symfony]([https://jschristophe.fr/symfony-fr)
 
 - 💬 Ask me about **symfony, vue , on some CMS**
 
