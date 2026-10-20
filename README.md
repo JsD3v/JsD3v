@@ -1,45 +1,40 @@
 # Jean-Sébastien Christophe
 
-**Développeur backend PHP / Symfony — applications métier, performance et mise en production**
+**PHP / Symfony Backend Developer · Business applications, performance & deployment**
 
-Je développe des applications métier et e-commerce avec PHP et Symfony, avec une attention particulière à leur fonctionnement en production. Mon travail couvre aussi les intégrations de services, les traitements asynchrones, le déploiement et l’observabilité.
+I'm a developer based in Strasbourg, France. I build business and e-commerce applications with PHP and Symfony, from backend development and service integrations to deployment and day-to-day operation.
 
-Je travaille actuellement chez [Agence DIX](https://www.agence-dix.fr/) et je développe en parallèle des projets personnels et open source. Je documente mes choix, mes essais et leurs limites sur [jschristophe.fr](https://www.jschristophe.fr/).
+I work at Agence DIX and build personal and open-source projects alongside my professional work. I write about technical decisions, experiments and lessons learned on [my blog](https://www.jschristophe.fr/) (in French).
 
-## Projets mis en avant
+## Selected work
 
-### UX Calendar Bundle
+### Kejja — Film & TV recommendations
 
-Bundle Symfony open source pour intégrer un calendrier sans imposer une bibliothèque front lourde. Il propose notamment des vues mois, semaine et jour, une utilisation headless et une API JSON optionnelle.
+My personal product for helping people decide what to watch. I'm building its Symfony backend and recommendation engine, combining user preferences, feedback and embeddings with PostgreSQL and pgvector.
 
-- Symfony 8 et PHP 8.4 minimum
-- Turbo, Stimulus et AssetMapper
-- CI publique sur la version 1.2.1 : [tests PHPUnit réussis](https://github.com/JsD3v/ux-calendar-bundle/actions/runs/33237163547) et [analyse PHPStan réussie](https://github.com/JsD3v/ux-calendar-bundle/actions/runs/33237163569)
+I document the challenges along the way, including cold starts and making useful recommendations with limited user data.
 
-[Dépôt GitHub](https://github.com/JsD3v/ux-calendar-bundle) · [Package Packagist](https://packagist.org/packages/jean-sebastien-christophe/ux-calendar-bundle) · [Retour de conception](https://www.jschristophe.fr/mon-premier-bundle-symfony-creation-de-ux-calendar-bundle-pour-symfony-8/)
+[Explore Kejja](https://kejja.app/) · [Recommendation engine](https://www.jschristophe.fr/moteur-de-recommandation-de-films-avec-symfony-kejja/) · [Handling cold starts](https://www.jschristophe.fr/ml-en-php-gerer-le-cold-start-des-recommandations-kejja/)
 
-### Kejja
+### UX Calendar Bundle — Open source
 
-Produit personnel en bêta privée consacré à la recommandation de films et de séries. J’y conçois le backend Symfony et un moteur de recommandation qui s’appuie sur les préférences, les retours d’usage et les embeddings. L’application iOS est en cours de développement.
+A Symfony bundle for building calendars with month, week and day views, headless support and an optional JSON API. Built around Symfony UX, with PHPUnit tests and PHPStan analysis in CI.
 
-[Découvrir Kejja](https://kejja.app/) · [Lire le retour d’expérience sur le moteur de recommandation](https://www.jschristophe.fr/moteur-de-recommandation-de-films-avec-symfony-kejja/)
+[Source code](https://github.com/JsD3v/ux-calendar-bundle) · [Packagist](https://packagist.org/packages/jean-sebastien-christophe/ux-calendar-bundle) · [CI workflows](https://github.com/JsD3v/ux-calendar-bundle/actions)
 
-### Diagnostic de performance avec FrankenPHP et k6
+### FrankenPHP & k6 — Performance investigation
 
-Retour d’expérience sur une campagne de charge menée avant un pic de trafic attendu. L’analyse a permis de distinguer une limite du générateur de charge d’une limite applicative, puis d’ajuster le dimensionnement des workers. Dans le scénario mixte documenté, le p95 de navigation est passé de 301 à 86 ms.
+A load-testing case study ahead of an expected traffic peak: identifying a bottleneck in the load generator, checking application behaviour and tuning the worker configuration.
 
-[Lire le retour d’expérience](https://www.jschristophe.fr/test-de-charge-frankenphp-ce-que-k6-a-vraiment-mesure/)
+[Read the case study](https://www.jschristophe.fr/test-de-charge-frankenphp-ce-que-k6-a-vraiment-mesure/)
 
-## Environnement de travail
+## Tools I work with
 
-- **Backend :** PHP 8, Symfony 7/8, API Platform, Doctrine
-- **Données et asynchrone :** PostgreSQL, Redis, RabbitMQ, Symfony Messenger
-- **Mise en production :** Docker, FrankenPHP, GitHub Actions, observabilité
-- **Interface serveur :** Twig, Stimulus, AssetMapper, Turbo
+- **Backend:** PHP, Symfony, API Platform, Doctrine
+- **Data & messaging:** PostgreSQL, pgvector, Redis, Symfony Messenger
+- **Web interfaces:** Twig, Symfony UX, Stimulus, Turbo
+- **Deployment & quality:** Docker, FrankenPHP, GitHub Actions, PHPUnit, PHPStan
 
-## Me retrouver
+## Find me online
 
-- [Portfolio et articles](https://www.jschristophe.fr/)
-- [Kejja](https://kejja.app/)
-- [UX Calendar Bundle](https://github.com/JsD3v/ux-calendar-bundle)
-- [Me contacter](mailto:hello@jschristophe.fr)
+[Website & blog](https://www.jschristophe.fr/) · [LinkedIn](https://www.linkedin.com/in/jsd3v/) · [Kejja](https://kejja.app/)
